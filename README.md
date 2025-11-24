@@ -51,8 +51,10 @@ A deep technical interest in smart grids and the Dutch energy market:
 ## Certifications
 
 - Offensive Security Certified Professional (OSCP)
+- Microsoft Azure Administrator (AZ-104)
 - AI Agents Fundamentals - Hugging Face
 - Fundamentals of MCP - Hugging Face
+- *Currently pursuing: Microsoft Azure AI Engineer (AI-102)*
 
 ## Connect with Me
 
