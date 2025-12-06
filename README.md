@@ -11,7 +11,11 @@
 
 ## GitHub Stats
 
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=frankwiersma&hide=stars&show_icons=true&hide_title=true&hide_border=true&title_color=9ff21e&icon_color=f5429b)](https://github.com/frankwiersma)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=frankwiersma&theme=github_dark)](https://github.com/frankwiersma)
+
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=frankwiersma&theme=github_dark)](https://github.com/frankwiersma)
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frankwiersma&theme=github_dark)](https://github.com/frankwiersma)
 
 ## What I'm Building
 
